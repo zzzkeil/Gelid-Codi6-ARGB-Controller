@@ -1,6 +1,6 @@
 // My modification based on a amazon.de user review code from Orkan 
 // Original from Orkan : https://www.amazon.de/gp/customer-reviews/R1FNEZSZ2LP1ZT
-// find more mods and "try and error exsamples" here :
+// find more mods and "try and error examples" here :
 // https://github.com/zzzkeil/Gelid-Codi6-ARGB-Controller
 
 #include <FastLED.h>
