@@ -1,6 +1,7 @@
 # Gelid-Codi6-ARGB-Controller
 
 A small collection of codes for codi6 from Gelid Solutions.
+
 try and error .....
 
 
