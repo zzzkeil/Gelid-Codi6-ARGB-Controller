@@ -1,5 +1,8 @@
 // This is my first modification from gelidsolutions.com code exsample button_select_9
 // https://gelidsolutions.com/thermal-solutions/codi6-argb-controller/
+// find more mods and "try and error exsamples" here :
+// https://github.com/zzzkeil/Gelid-Codi6-ARGB-Controller
+
 
 #include <FastLED.h>
 #include "colorutils.h"
