@@ -1,4 +1,4 @@
-// My modification based on github users WUSYF  > rainbow_ring.java code  
+// My modification based on github user WUSYF  > rainbow_ring.java code  
 // Original from WUSYF : https://github.com/WUSYF/RGB_GELID_CODI6/blob/main/rainbow_ring.java
 // find more mods and "try and error exsamples" here :
 // https://github.com/zzzkeil/Gelid-Codi6-ARGB-Controller
