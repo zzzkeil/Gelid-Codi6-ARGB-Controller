@@ -1,5 +1,5 @@
 // My modification based on github user WUSYF  > rainbow_ring.java code  
-// Original from WUSYF : https://github.com/WUSYF/RGB_GELID_CODI6/blob/main/rainbow_ring.java
+// Original from WUSYF : https://github.com/WUSYF/RGB_GELID_CODI6/blob/main/simple_smooth_rainbow.java
 // find more mods and "try and error esamples" here :
 // https://github.com/zzzkeil/Gelid-Codi6-ARGB-Controller
 
